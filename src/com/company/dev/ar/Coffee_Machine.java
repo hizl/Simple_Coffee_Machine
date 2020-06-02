@@ -2,7 +2,7 @@ package com.company.dev.ar;
 
 import java.util.Scanner;
 
-public class HaveNeeds {
+public class Coffee_Machine {
 
     public static class CoffeeMachine {
         public static void main(String[] args) {
